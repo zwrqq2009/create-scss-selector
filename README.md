@@ -1,5 +1,5 @@
 # create-scss-selector
-![image text](http://github.com/zwrqq2009/create-scss-selector/create-scss-selector.gif)
+![image text](https://github.com/zwrqq2009/create-scss-selector/blob/master/create-scss-selector.gif)
 
 
 ------
